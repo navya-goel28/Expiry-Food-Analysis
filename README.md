@@ -23,3 +23,7 @@ Built using **Streamlit**, **Pandas**, and **Seaborn**, this app visualizes wast
 - Expiry and consumption trends by **month**
 - Quantity statistics
 - Visual insights using bar charts
+
+![Project Screenshot](d1.png)
+![Project Screenshot](d2.png)
+![Project Screenshot](d3.png)
